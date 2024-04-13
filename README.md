@@ -1,16 +1,14 @@
 # Afame-Technologies
 
 1. SALES DATA ANALYSIS
-
-This project will require you to delve into a sizable sales dataset in order to glean insightful information. In order
+This project will require you to dive into a sizable sales dataset for insightful information. In order
 to successfully convey your findings, you will compute revenue measures like
-1. total sales,
-2. analyze sales trends over time,
-3. determine the best-selling products, and build visualizations.
+--> total sales,
+--> Analyze sales trends over time,
+--> Determine the best-selling products, and build visualizations.
 
 
 2. TITANIC SURVIVAL PREDICTION
-
 The sinking of the Titanic is one of the most infamous shipwrecks in history.
 On April 15, 1912, during her maiden voyage, the widely considered “unsinkable” RMS Titanic sank
 after colliding with an iceberg. Unfortunately, there weren’t enough lifeboats for everyone on board,
